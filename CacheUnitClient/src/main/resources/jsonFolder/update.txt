@@ -1,0 +1,23 @@
+{
+  "headers": {
+    "action": "UPDATE"
+  },
+  "body": [
+    {
+      "id": 6,
+      "content": "bye"
+    },
+    {
+      "id": 7,
+      "content": "bye"
+    },
+    {
+      "id": 8,
+      "content": "bye"
+    },
+{
+      "id": 9,
+      "content": "bye"
+    }
+  ]
+}
